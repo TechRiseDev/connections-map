@@ -36,9 +36,17 @@ Idéal pour :
  📦 Dépendances
 
 - 🔹 **screenshot-basic**  
-  👉 https://github.com/citizenfx/screenshot-basic  
+  👉 https://github.com/citizenfx/screenshot-basic
+
+- 🔹 **ESX**  
+  👉 https://github.com/mitlight/es_extended
+
+- 🔹 **QBCore**  
+  👉 https://github.com/qbcore-framework/qb-core
 
 - 🔹 FXServer (FiveM)
+
+⚠️ Assurez-vous que `es_extended` et `qb-core` sont installés et démarrés avant le dossier.
 
 ---
 
